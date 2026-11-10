@@ -10,10 +10,15 @@ A holding place for faculty-suggested topics before they become handbook chapter
 | Export and archive courses | Lisa | Blackboard Ultra → Course Management | To plan | Confirm exact export/archive processes and permissions |
 | Journals | Lisa | Blackboard Ultra → Activities & Assessments | To plan | |
 | Blackboard Video Studio | Lisa | Blackboard Ultra → Multimedia & Recording | To plan | |
-| MS Education (?) | Lisa | Blackboard Ultra → Integrations & Teaching Tools | Clarify | Confirm which Microsoft Education feature or integration |
+| Microsoft Education integration | Lisa | Blackboard Ultra → Common Integrations | To plan | Integration within Blackboard; document setup, capabilities, and faculty workflow |
 | Peer Review | Lisa | Blackboard Ultra → Activities & Assessments | To plan | Cross-link from instructional strategies |
 | Rubrics | Lisa | Blackboard Ultra → Grading & Feedback | To plan | |
 | Analytics | Lisa | Blackboard Ultra → Tracking Student Progress | To plan | Clarify which analytics tools are most useful |
+
+| 10 Essential Skills | Steph | Faculty Resource Library → 10 Essential Skills | To plan | Dedicated section: framework, instructional integration, assignments, and assessment | 
+| AI Literacy Framework for Students | Steph | Faculty Resource Library → AI Literacy for Students | To plan | Dedicated student-facing framework and resources for faculty to share | 
+| AI Support for Faculty | Steph | Faculty Resource Library → AI Support for Faculty | To plan | Dedicated faculty guidance for teaching, assignment design, and responsible AI use | 
+| Common Blackboard Integrations | Steph | Blackboard Ultra → Common Integrations | To plan | Dedicated chapter for supported integrations, starting with Microsoft Education | 
 
 ## Proposed Blackboard Ultra topic groups
 
@@ -23,7 +28,19 @@ A holding place for faculty-suggested topics before they become handbook chapter
 - **Grading & Feedback** — Gradebook, rubrics, feedback workflows
 - **Multimedia & Recording** — Video Studio and media tools
 - **Tracking Student Progress** — analytics and activity reports
-- **Integrations & Teaching Tools** — connected Microsoft and other tools
+- **Common Integrations** — Microsoft Education integration and other supported Blackboard integrations; add individual guides as confirmed
+
+## Proposed Faculty Resource Library sections
+
+- **Blackboard Ultra** — LMS tools and common integrations
+- **10 Essential Skills** — framework and practical instructional integration
+- **AI Literacy for Students** — student-facing framework and shareable resources
+- **AI Support for Faculty** — teaching and working with AI
+- **Course Design & Quality** — course design, review, and improvement
+- **Accessibility** — accessible materials and teaching practices
+- **Faculty Development** — professional learning and support
+
+These are proposed homes, not a commitment to publish empty chapters. Cross-link related topics without duplicating content.
 
 ## Intake workflow
 
