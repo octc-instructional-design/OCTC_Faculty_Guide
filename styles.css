@@ -10,3 +10,8 @@ body{font-family:Inter,system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
 .ready-header .home-link,.ready-header .home-link:visited{color:#fff!important;background:#304b61;border:1px solid #8198a8;min-height:40px;padding:8px 13px;white-space:nowrap}
 .ready-header .home-link:hover,.ready-header .home-link:focus-visible{background:#47667e;outline:2px solid #f3c24d;outline-offset:2px}
 .ready-header .home-link svg{stroke:#fff}
+
+/* Faculty Guide navigation: contents toggle left, HOME upper right */
+.toolbar .home-link{margin-left:auto;color:#00467f;font-size:.78rem;font-weight:800;letter-spacing:.035em;white-space:nowrap}
+.toolbar>span:last-of-type{margin-left:0}
+@media(max-width:600px){.home-label{display:inline}}
