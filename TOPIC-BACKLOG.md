@@ -20,6 +20,10 @@ A holding place for faculty-suggested topics before they become handbook chapter
 | AI Support for Faculty | Steph | Faculty Resource Library → AI Support for Faculty | To plan | Dedicated faculty guidance for teaching, assignment design, and responsible AI use | 
 | Common Blackboard Integrations | Steph | Blackboard Ultra → Common Integrations | To plan | Dedicated chapter for supported integrations, starting with Microsoft Education | 
 
+| KES — Kentucky Essential Standards | Steph | Course Quality & Compliance → KES Standards | To plan | Applicability, standards, examples, and readiness-check cross-links; distinguish fully online requirements from general best practices |
+| KOLA Course Review Process | Steph | Course Quality & Compliance → KOLA Course Review | To plan | Selection, preparation, review steps, outcomes, follow-up, and faculty-facing expectations |
+| RSI — Regular and Substantive Interaction | Steph | Course Quality & Compliance → RSI | To plan | Definitions, practical examples, instructor-initiated interaction, and documentation |
+
 ## Proposed Blackboard Ultra topic groups
 
 - **Course Management** — course setup, copying, exporting, archiving, and availability
@@ -36,7 +40,8 @@ A holding place for faculty-suggested topics before they become handbook chapter
 - **10 Essential Skills** — framework and practical instructional integration
 - **AI Literacy for Students** — student-facing framework and shareable resources
 - **AI Support for Faculty** — teaching and working with AI
-- **Course Design & Quality** — course design, review, and improvement
+- **Course Design & Quality** — instructional design and improvement
+- **Course Quality & Compliance** — KES standards, KOLA review process, and RSI
 - **Accessibility** — accessible materials and teaching practices
 - **Faculty Development** — professional learning and support
 
