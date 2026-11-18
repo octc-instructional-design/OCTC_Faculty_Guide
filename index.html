@@ -9,4 +9,23 @@
 <label><input type="checkbox" data-item="gradebook"><span><strong>Gradebook setup &amp; visibility</strong><small>Verify the overall grade calculation, grading schema, and what students can see. Check even after a course copy; if Blackboard still shows “Set Up Gradebook,” finish the setup.</small></span></label>
 <label><input type="checkbox" data-item="dates"><span><strong>Dates &amp; assessment settings</strong><small>Check due dates, assessment availability, attempts, and Student Preview.</small></span></label>
 <label><input type="checkbox" data-item="support"><span><strong>Support &amp; communication</strong><small>Students know how to ask questions and find academic or technical help.</small></span></label>
-</div><details class="note"><summary>About the KES references</summary><p>The small references identify related Kentucky Essential Standards. Accessibility spans several separate KES requirements, so its individual standards will be mapped once we verify the original checklist. KES references do not mean every course must undergo a KES review.</p></details><div class="pad-bottom"><button id="reset" type="button">Clear my checks</button><span>For your own planning</span></div></div></section><section class="after"><p class="chapter-no">READY TO EXPLORE?</p><h2>The rest of the handbook is yours to browse.</h2><p>Find new faculty orientation, Blackboard Ultra resources, accessibility guidance, AI resources, and more as the guide grows.</p><a class="primary-action" href="guide.html">Open the Table of Contents <span aria-hidden="true">→</span></a></section><footer>Owensboro Community &amp; Technical College <span>Faculty Guide · Working draft</span></footer></main><script src="readiness.js"></script></body></html>
+</div><details class="note"><summary>About the KES references</summary><p>The small references identify related Kentucky Essential Standards. Accessibility spans several separate KES requirements, so its individual standards will be mapped once we verify the original checklist. KES references do not mean every course must undergo a KES review.</p></details><div class="pad-bottom"><button id="reset" type="button">Clear my checks</button><span>For your own planning</span></div></div></section><section class="after"><p class="chapter-no">READY TO EXPLORE?</p><h2>The rest of the handbook is yours to browse.</h2><p>Find new faculty orientation, Blackboard Ultra resources, accessibility guidance, AI resources, and more as the guide grows.</p><a class="primary-action" href="guide.html">Open the Table of Contents <span aria-hidden="true">→</span></a></section><footer>Owensboro Community &amp; Technical College <span>Faculty Guide · Working draft</span></footer></main><script src="readiness.js"></script><style>
+#faculty-preview{box-sizing:border-box;width:min(92vw,34rem);max-height:85vh;overflow:auto;border:0;border-top:6px solid #e7a614;border-radius:12px;padding:clamp(1.25rem,4vw,2rem);background:#fff;color:#202b36;box-shadow:0 12px 48px #0004;font-family:system-ui,sans-serif}
+#faculty-preview::backdrop{background:rgba(12,28,45,.65)}
+#faculty-preview h2{color:#00467f;font-size:1.65rem;line-height:1.25;margin:.6rem 0 1rem}
+#faculty-preview p{line-height:1.6;margin:.75rem 0}
+#faculty-preview .preview-label{font-size:.8rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#755000}
+#faculty-preview button{background:#00467f;color:#fff;border:0;border-radius:6px;padding:.85rem 1.2rem;font:inherit;font-weight:600;cursor:pointer;margin-top:.75rem}
+#faculty-preview button:focus-visible{outline:3px solid #b87900;outline-offset:4px}
+@media print{#faculty-preview{display:none!important}}
+</style>
+<dialog id="faculty-preview" aria-labelledby="preview-title" aria-describedby="preview-description">
+<p class="preview-label">Work in progress</p>
+<h2 id="preview-title">Welcome to the OCTC Faculty Guide</h2>
+<div id="preview-description"><p>This guide is currently under development as part of our Spring 2027 START HERE initiative.</p><p>You're welcome to explore! Additional resources, guidance, and examples will be added as the guide continues to evolve.</p><p>Thank you for your patience as we build this resource to support OCTC faculty.</p></div>
+<form method="dialog"><button autofocus>Explore the Guide</button></form>
+</dialog>
+<script>
+(function(){const dialog=document.getElementById('faculty-preview');const key='octc-faculty-preview-v1';let seen=false;try{seen=localStorage.getItem(key)==='1';}catch(e){}if(!seen&&typeof dialog.showModal==='function'){dialog.addEventListener('close',function(){try{localStorage.setItem(key,'1');}catch(e){}const main=document.getElementById('main');if(main){main.setAttribute('tabindex','-1');main.focus({preventScroll:true});}});dialog.showModal();}})();
+</script>
+</body></html>
